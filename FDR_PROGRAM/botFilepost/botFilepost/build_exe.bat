@@ -1,0 +1,1 @@
+call pyinstaller --onefile --collect-all botFilepost my_exe.py

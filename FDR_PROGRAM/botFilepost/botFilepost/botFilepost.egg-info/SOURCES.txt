@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.py
+botFilepost/__init__.py
+botFilepost/__main__.py
+botFilepost/bot.py
+botFilepost.egg-info/PKG-INFO
+botFilepost.egg-info/SOURCES.txt
+botFilepost.egg-info/dependency_links.txt
+botFilepost.egg-info/requires.txt
+botFilepost.egg-info/top_level.txt
+botFilepost/resources/start.png
